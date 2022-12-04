@@ -69,7 +69,9 @@ Fail=5, Out of Scope= 2
                         a/b ×100 = (2/500)×100=0.4
                         
          #TestcaseBlocked&DefectDensity
-       <img width="379" alt="Screenshot 2022-12-04 125825" src="https://user-images.githubusercontent.com/32101980/205480672-2a99d6f3-39ba-4daf-b3d7-1c8a88157647.png">
+         
+         
+   <img width="379" alt="Screenshot 2022-12-04 125825" src="https://user-images.githubusercontent.com/32101980/205480672-2a99d6f3-39ba-4daf-b3d7-1c8a88157647.png">
 
 7.    
 
