@@ -34,16 +34,23 @@ Fail=5, Out of Scope= 2
       
       <img width="375" alt="Screenshot 2022-12-04 125629" src="https://user-images.githubusercontent.com/32101980/205480477-a5f6bbc9-3735-4a53-baa7-18ec24efca0f.png">
 
+
 3.       % of Test  cases passed : (No of test cases passed/  Total test cases executed)* 100
               
               
                 Test cases passed = 62
                  a/b= (62/70)×100 = 88.57%
+        
 
 
 4.       % of Test  cases failed : (No of test cases failed/  Total test cases executed)* 100
                 Test cases failed = 5
                 a/b×100 = (5/70)×100 =7.14%
+                
+                
+        #TestcasePassedFailed
+        
+        <img width="383" alt="Screenshot 2022-12-04 125716" src="https://user-images.githubusercontent.com/32101980/205480548-386b04c1-304f-454b-9886-f042d1bb6877.png">
 
                 
 5.       % of Test cases blocked : ( No of test cases blocked/  Total test cases executed)* 100
