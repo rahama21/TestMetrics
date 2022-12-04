@@ -95,10 +95,14 @@ Fail=5, Out of Scope= 2
  <img width="383" alt="Screenshot 2022-12-04 130112" src="https://user-images.githubusercontent.com/32101980/205480737-1808023e-fca3-45e7-b6b2-cf14f60059f8.png">
 
 
-9.Defect Rejection Ratio : (No of defect rejected/Total no of defect raises)*100
-        Defect rejected=5
-        Defect raises 10
-        a=5 b =10, a/b×100=( 5/10)×100=50%
-10. Defect Age: Fixed Date - Reported Date
+9.     Defect Rejection Ratio : (No of defect rejected/Total no of defect raises)*100
+               Defect rejected=5
+                 Defect raises 10
+              a=5 b =10, a/b×100=( 5/10)×100=50%
+10.        Defect Age: Fixed Date - Reported Date
 
-11. Customer setisfection: No of complaints per period of time
+11.     Customer setisfection: No of complaints per period of time
+
+    #Defectrejectionratio
+    
+    <img width="387" alt="Screenshot 2022-12-04 130216" src="https://user-images.githubusercontent.com/32101980/205480880-a1060cea-217b-4d06-89a6-015e2730959f.png">
