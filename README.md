@@ -90,6 +90,9 @@ Fail=5, Out of Scope= 2
         UAT defects =2
         Defects found in testing=5
          a=2,b=5,a/b×100=2/5×100=40%
+         
+ #Defectremovalefficiency&Defectleakage
+ <img width="383" alt="Screenshot 2022-12-04 130112" src="https://user-images.githubusercontent.com/32101980/205480737-1808023e-fca3-45e7-b6b2-cf14f60059f8.png">
 
 
 9.Defect Rejection Ratio : (No of defect rejected/Total no of defect raises)*100
