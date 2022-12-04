@@ -68,14 +68,14 @@ Fail=5, Out of Scope= 2
                         Size b =500
                         a/b ×100 = (2/500)×100=0.4
                         
-         #TestcaseBlocked&DefectDensity
+            #TestcaseBlocked&DefectDensity
          
          
-   <img width="379" alt="Screenshot 2022-12-04 125825" src="https://user-images.githubusercontent.com/32101980/205480672-2a99d6f3-39ba-4daf-b3d7-1c8a88157647.png">
+     <img width="379" alt="Screenshot 2022-12-04 125825" src="https://user-images.githubusercontent.com/32101980/205480672-2a99d6f3-39ba-4daf-b3d7-1c8a88157647.png">
 
-7.    
+    
 
-        Defect removal Efficiency :
+     7.   Defect removal Efficiency :
         A/(A+B)*100
         Fixed Defects/(Fixed Defects+Missed Defects)*100
 
@@ -85,13 +85,13 @@ Fail=5, Out of Scope= 2
 
         A=0.4,B=1.5,{0.4/(0.4+1.5)}×100= 21.053%
 
-8. Defect Leakage:(No of defects found in UAT/No of defects found in testing
- ) *100
-        UAT defects =2
-        Defects found in testing=5
-         a=2,b=5,a/b×100=2/5×100=40%
+8.     Defect Leakage:(No of defects found in UAT/No of defects found in testin)*100
+       
+                   UAT defects =2
+                   Defects found in testing=5
+                   a=2,b=5,a/b×100=2/5×100=40%
          
- #Defectremovalefficiency&Defectleakage
+     #Defectremovalefficiency&Defectleakage
  <img width="383" alt="Screenshot 2022-12-04 130112" src="https://user-images.githubusercontent.com/32101980/205480737-1808023e-fca3-45e7-b6b2-cf14f60059f8.png">
 
 
