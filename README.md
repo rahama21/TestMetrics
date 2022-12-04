@@ -15,6 +15,11 @@ Fail=5, Out of Scope= 2
                  No of the TC executed a= 62 ,
                   Total No of the TC b= 70
                   a/b×100 = (62/70)×100 =88.57%
+                  
+    #TestcaseExecuted
+    
+    <img width="376" alt="Screenshot 2022-12-04 125510" src="https://user-images.githubusercontent.com/32101980/205480444-bda6a42d-dfa4-4e3f-9a01-46d4fabfb8ab.png">
+
 
 
 2.      % of Test Cases Not Executed:( No of test cases Not executed/Total no of test cases written )*100
